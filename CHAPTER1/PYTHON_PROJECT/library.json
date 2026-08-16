@@ -1,0 +1,13 @@
+{
+    "books": [
+        {
+            "id": "B-IFAmc",
+            "title": "Principle of Physics",
+            "author": "Nitish",
+            "total_copies": 44,
+            "available_copies": 44,
+            "added_on": "17/08/2026, 04:44:10"
+        }
+    ],
+    "members": []
+}
