@@ -5,8 +5,6 @@ from pathlib import Path
 from datetime import datetime
 from rich import print
 
-
-
 class Library:
     database="CHAPTER1/PYTHON_PROJECT/library.json"
     dummy_data={"books":[],"members":[]}
